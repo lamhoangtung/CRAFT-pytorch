@@ -4,3 +4,5 @@
 *.pth
 result*
 weights*
+debug_lines/
+*.DS_Store
